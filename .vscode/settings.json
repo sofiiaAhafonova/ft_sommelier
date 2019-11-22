@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "venv/bin/python3"
+    "python.pythonPath": "venv/bin/python3",
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=4635ab8bce32b4820d5eddfbf035324fb116d45c6d8aeb5e"
 }
